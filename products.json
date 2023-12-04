@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "earings",
+        "price" : 450,
+        "featured": true,
+        "company": "MALABAR"
+    },
+
+    {
+        "name" : "tops",
+        "price" : 450,
+        "featured": true,
+        "company": "KALYAN"
+    },
+    {
+        "name" : "necklace",
+        "price" : 400,
+        "featured": true,
+        "company": "MALABAR"
+    },
+    {
+        "name" : "braclets",
+        "price" : 450,
+        "company": "MALABAR"
+    },
+
+    {
+        "name" : "tops",
+        "price" : 450,
+        "company": "MALABAR"
+    }, 
+
+    {
+        "name" : "earings",
+        "price" : 450,
+        "company": "MALABAR"
+    } 
+]
