@@ -3,36 +3,48 @@
         "name" : "earings",
         "price" : 450,
         "featured": true,
-        "company": "MALABAR"
+        "company": "MALABAR",
+        "description" : "Dangle earrings also hang down below the earlobe. Dangle earrings typically feature a more intricate design and have more movement to them than a standard drop earring.",
+        "image" : "https://i.pinimg.com/736x/32/37/d2/3237d29958f955890890d1e2a613eb7b.jpg"
     },
 
     {
         "name" : "tops",
         "price" : 450,
         "featured": true,
-        "company": "KALYAN"
+        "company": "KALYAN",
+        "description" : "925 Pure Sterling Silver Stylish Single Stone Tops Bali ",
+        "image" : "https://m.media-amazon.com/images/I/510SN0WOGcS._SX500_.jpg"
     },
     {
-        "name" : "necklace",
+        "name" : "Pearl necklace",
         "price" : 400,
         "featured": true,
-        "company": "MALABAR"
+        "company": "MALABAR",
+        "image" : "https://www.barbaraparkers.com/wp-content/uploads/2016/11/BP-N1389.jpg",
+        "description" : "White Getty Images' premium collection of high-quality, authentic Pearl Necklace"
     },
     {
         "name" : "braclets",
         "price" : 450,
-        "company": "MALABAR"
+        "company": "MALABAR",
+        "description" : "Multi Style Bracelet Sets Made with Beads For Women; Girls ; Boys; Men",
+        "image" : "https://m.media-amazon.com/images/I/61rjNBenE8L._SL1500_.jpg"
     },
 
     {
         "name" : "tops",
         "price" : 450,
-        "company": "MALABAR"
+        "company": "MALABAR",
+        "description" : "Shining Diva Fashion Enamel Blue Flower Fancy Tops Stud Earrings for Women and Girls",
+        "image" : "https://m.media-amazon.com/images/I/61vzfFXbIzL._SL1500_.jpg"
     }, 
 
     {
-        "name" : "earings",
+        "name" : "anklets",
         "price" : 450,
-        "company": "MALABAR"
+        "company": "MALABAR",
+        "description" : "Sterling Silver Modern Wedding Anklets for Women",
+        "image" : "https://m.media-amazon.com/images/I/511p-ZxLauL._SY395_.jpg"
     } 
 ]
