@@ -28,7 +28,18 @@ const productSchema = new mongoose.Schema({
             message : `{VALUE} is not supported`,
         },
     },
+    image : {
+        data : Buffer,
+        contentType : String
 
+    },
+    description : {
+        type : String,
+        required: true,
+    },
+    color : {
+        type : String
+    }
 
 });
 
